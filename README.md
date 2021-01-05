@@ -1,0 +1,2 @@
+# substrings
+Substring method implementation
